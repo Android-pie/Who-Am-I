@@ -16,3 +16,11 @@ My name is Pushkar Talwar and I was born in Edmonton, Canada and I have lived he
 
 ### 50-word Description about my career plan
 The job that I really want to have is a computer engineer that works with quantum computers. I want this job because I have always been curious about how quantum mechanics work and why it is the way it does. Quantum computer interest me the most simply because of how much more powerful them can be and help us solve questions about the world and the universe.
+
+### To do list
+Nationality: Canadian
+Ethnicity: Indian
+Language: Hindi, English
+Birth place: Edmonton, Alberta
+Full Name: Talwar, Pushkar
+Full Name in Hindi: तलवार, पुष्कर
