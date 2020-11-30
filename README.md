@@ -19,8 +19,13 @@ The job that I really want to have is a computer engineer that works with quantu
 
 ### To do list
 Nationality: Canadian
+
 Ethnicity: Indian
+
 Language: Hindi, English
+
 Birth place: Edmonton, Alberta
+
 Full Name: Talwar, Pushkar
+
 Full Name in Hindi: तलवार, पुष्कर
