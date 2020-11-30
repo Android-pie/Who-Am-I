@@ -29,3 +29,12 @@ Birth place: Edmonton, Alberta
 Full Name: Talwar, Pushkar
 
 Full Name in Hindi: तलवार, पुष्कर
+
+Religion: Hindu
+
+Customs in Hinduism:
+
+  - Greet each other by say "Namaste"
+  - Start of any religious ceremonies, with worship of "Lord Ganesha"
+  - Don't wear footwear inside of temples
+  - There are many festivals throughout the year  
