@@ -38,3 +38,13 @@ Customs in Hinduism:
   - Start of any religious ceremonies, with worship of "Lord Ganesha"
   - Don't wear footwear inside of temples
   - There are many festivals throughout the year  
+
+
+
+Cultural Food:
+  - Roti
+  -
+
+
+Cultural Celebrations
+  - 
